@@ -1,0 +1,4 @@
+user_id,age,gender,medical_history,preferred_workout,steps_per_day,heart_rate,sleep_hours,StepsToSleepRatio,HeartRateByAge
+1,25,M,0,Cardio,8000,72,7.5,941.1764705882352,2.88
+2,30,F,Hypertension,Strength,5000,78,6.0,714.2857142857143,2.6
+3,35,M,Diabetes,Yoga,9000,80,8.0,1000.0,2.2857142857142856
